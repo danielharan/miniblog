@@ -1,0 +1,12 @@
+== Miniblog
+
+Inspired by Scanty, Webby and Homoiconic: a minimalist blogging "engine".
+
+* Comments are handled by Disqus
+* Post and their meta-data are kept under version control
+* Aggressive caching instead of static generation
+
+Data from flat-files is loaded in the database to simplify serving pages.
+
+The project is optimized for least effort, rather than smallest codebase.
+
